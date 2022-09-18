@@ -9,6 +9,15 @@ This is my First Flutter Project. On WordPair Generator You can Save The Word.
 used Package english_words: ^4.0.0 : https://pub.dev/packages/english_words
 
 
+## HOME SCREEN
+
+![Simulator Screen Shot - iPhone 13 Pro - 2022-09-18 at 20 58 10](https://user-images.githubusercontent.com/21160443/190914029-a1a3b0d9-b8ba-415d-a112-0d07bc9dc45b.png)
+
+
+## SAVED SCREEN
+
+![Simulator Screen Shot - iPhone 13 Pro - 2022-09-18 at 20 58 10](https://user-images.githubusercontent.com/21160443/190914029-a1a3b0d9-b8ba-415d-a112-0d07bc9dc45b.png)
+
 
 
 
