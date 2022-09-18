@@ -16,7 +16,7 @@ used Package english_words: ^4.0.0 : https://pub.dev/packages/english_words
 
 ## SAVED SCREEN
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-09-18 at 20 58 10](https://user-images.githubusercontent.com/21160443/190914029-a1a3b0d9-b8ba-415d-a112-0d07bc9dc45b.png)
+![Simulator Screen Shot - iPhone 13 Pro - 2022-09-18 at 20 59 10](https://user-images.githubusercontent.com/21160443/190914077-a4b5ea40-bf47-4b86-8c30-c8bc66a6f0cd.png)
 
 
 
